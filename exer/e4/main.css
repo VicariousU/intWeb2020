@@ -1,16 +1,21 @@
 body {
-  background-color: rgb(85,107,47);
+  background-color: rgb(50,70,10);
   font-family: Arial;
   font-size: 15px;
   margin: 50px;
   text-align: center;
 }
+.bodydiv {
+  color: white;
+  width: 1000px;
+  margin: 100px auto;
+}
 
 h1 {
   margin: 0;
   text-align: center;
-  font-size: 35px;
-  color: black;
+  font-size: 50px;
+  color: white;
 }
 
 a {
@@ -30,16 +35,23 @@ li {
   margin: 10px 0 0 0;
 }
 
-#sub {
+.sub {
   margin: 0;
   text-align: center;
   font-size: 30px;
-  color: black;
+  color: white;
 }
 
-#ex {
+.ex {
   margin: 0;
   text-align: center;
   font-size: 30px;
+  color: white;
+}
+
+#h {
+  margin: 0;
+  text-align: center;
+  font-size: 15px;
   color: white;
 }
