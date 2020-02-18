@@ -1,0 +1,36 @@
+body {
+  margin: 1px;
+  overflow-x: hidden;
+  background-color: darkred;
+}
+.bodydiv {
+  width: 110vw;
+  margin: -50px -10%;
+}
+.bl1, .bl2, .bl3, .bl4 {
+  width: 150px;
+  height: 150px;
+  float: left;
+  border-radius: 100%;
+  border: 10px solid black;
+}
+.bl1 {
+background-color: brown;
+margin: -20px;
+opacity: 100%;
+}
+.bl2 {
+background-color: green;
+margin: -20px;
+opacity: 100%;
+}
+.bl3 {
+background-color: white;
+margin: -20px;
+opacity: 100%;
+}
+.bl4 {
+background-color: lightpink;
+margin: -20px;
+opacity: 100%;
+}
