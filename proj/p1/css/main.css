@@ -1,0 +1,39 @@
+/*CSS for this exercise or project*/
+body {
+background-color: rgb(200,200,200);
+font-family: 'Share', cursive;
+}
+
+#container-1 {
+  margin: 10vh 30vh;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  color: rgb(100,20,20);
+  text-align: center;
+}
+
+.norm {
+  font-size: 20px;
+}
+.soft {
+  font-size: 17px;
+}
+.exSoft {
+  font-size: 14px;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+}
