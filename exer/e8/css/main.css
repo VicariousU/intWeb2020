@@ -8,6 +8,88 @@ p {
   color: white;
 }
 
+/* Tennis */
+* {
+  box-sizing: border-box;
+}
+.court {
+  width: 900px;
+  margin: 100px auto;
+}
+.side {
+  width: 150px;
+  height: 600px;
+  background-color: lightgreen;
+  float: left;
+  border: 5px solid white;
+}
+.back {
+  width: 600px;
+  height: 200px;
+  background-color: lightgreen;
+  float: left;
+  border: 5px solid white;
+}
+.service {
+  float: left;
+  width: 300px;
+  height: 400px;
+  background-color: lightgreen;
+  border: 5px solid white;
+}
+.single {
+  float: left;
+  width: 600px;
+}
+
+/* NO */
+.pen {
+  width: 800px;
+  margin: 100px auto;
+}
+
+.spring {
+  width: 100px;
+  height: 200px;
+  background-color: lightgreen;
+  float: left;
+  border: 5px solid white;
+}
+
+.clip {
+  width: 100px;
+  height: 400px;
+  background-color: lightgreen;
+  float: left;
+  border: 5px solid white;
+}
+
+.ink {
+  width: 200px;
+  height: 400px;
+  background-color: lightgreen;
+  float: left;
+  border: 5px solid white;
+}
+
+.shell {
+  width: 200px;
+  height: 600px;
+  background-color: lightgreen;
+  float: left;
+  border: 5px solid white;
+}
+
+.pocket {
+  float: left;
+  width: 100px;
+}
+
+.mech {
+  float: left;
+  width: 600px;
+}
+
 /*Chess*/
 
 .board {
