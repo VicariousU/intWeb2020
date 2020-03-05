@@ -1,0 +1,94 @@
+
+.arial { font-family: Arial}
+img {
+  float: left;
+}
+
+h1 {
+  font-family: 'Wendy One';
+  text-align: center;
+  font-size: 50px;
+  float: left;
+}
+h2 {
+  font-family: 'Wendy One';
+  text-align: center;
+  font-size: 30px;
+  float: left;
+}
+
+.container-1 {
+  float: left;
+  width: auto;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  margin-left: 2%;
+  margin-right: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  position: relative;
+  text-align: left;
+  background-color: rgb(230,230,230);
+  border-radius: 5vh;
+}
+
+.container-2 {
+  float: left;
+  width: auto;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  margin-left: 2%;
+  margin-right: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  position: relative;
+  text-align: left;
+  background-color: rgb(230,230,230);
+  border-radius: 5vh;
+}
+
+.sub {
+  width: 60vh;
+  padding: 1px;
+  background-color: rgb(153, 153, 102);
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 5vh;
+  margin-left: 0%;
+  text-indent: 3vh;
+}
+
+body {
+  background-color: rgb(102, 153, 153);
+  font-family: Arial;
+  font-size: 100;
+  margin: 100px 50px 50px 50px; /*top, right, bottom, left*/
+  letter-spacing: 2px;
+  text-align: left;
+}
+
+img {
+  margin: auto;
+}
+
+a {
+  color: darkred;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+}
+p {
+  font-family: 'Wendy One';
+}
+
+ul {
+  font-family: Arial;
+  list-style-type: none;
+}
+
+li {
+  margin: 10px 0 0 0;
+}
