@@ -1,0 +1,18 @@
+/*CSS for this exercise or project*/
+body {
+background-color: rgb(85,105,45);
+
+}
+
+#container-1 {
+  margin: 10vh;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+}
+
+.norm {
+  font-family: 'Share', cursive;
+}
